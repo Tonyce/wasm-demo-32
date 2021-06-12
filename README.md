@@ -1,0 +1,1 @@
+https://pushbar.medium.com/write-a-rust-crate-to-enable-webassembly-function-pass-through-complex-data-structure-as-f3191700de93
